@@ -8,4 +8,5 @@
 
 ### Customize configuration
 
-See [Configuration Reference](https://iconics.com/).
+See [官网](https://iconics.com/).
+9
